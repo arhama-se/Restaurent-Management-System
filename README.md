@@ -1,25 +1,19 @@
 This code is a simple Restaurant Management System written in C++. It allows users to interact with a menu, place orders, review their orders, and get a bill. Below is a detailed description of its components and functionality:
-
 Features of the Code
 Display Menu:
-
 Shows the list of menu items with their corresponding prices.
 Uses a predefined array for menuitems (item names) and menuprices (item prices).
 Place an Order:
-
 Lets the user select items from the menu.
 Adds selected items to a cart (stored in the orderitems array).
 Ensures that the cart can hold a maximum of 10 items.
 Confirm Order:
-
-Displays the items in the cart along with their prices and the total cost.
+Displays theitems in the cart along with their prices and the total cost.
 Asks the user to confirm or reject the order.
 Generate Bill:
-
 Once the order is confirmed, the system displays the final bill with the total amount.
 Provides a thank-you note at the end.
-Menu Navigation:
-
+Menu Navigation
 Offers a simple menu-driven interface with options to display the menu, take an order, confirm the order, or exit.
 Code Structure
 Global Variables
