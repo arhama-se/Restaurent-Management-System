@@ -1,4 +1,4 @@
-Restaurant Order Management System: Code Description
+Restaurant Management System: Code Description
 Overall Purpose
 
 A C++ program for managing restaurant orders with a menu system allowing customers to select items, place orders, and generate bills.
