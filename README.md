@@ -1,4 +1,4 @@
-Restaurant Management System: Code Description
+Restaurant Order Management System: Code Description
 Overall Purpose
 
 A C++ program for managing restaurant orders with a menu system allowing customers to select items, place orders, and generate bills.
@@ -36,7 +36,7 @@ Upon confirmation, final bill is displayed and program terminates
 Error Handling
 
 Validates menu item numbers (must be between 1-7)
-Prevents exceeding maximum cart size (7 items)
+Prevents exceeding maximum cart size (10 items)
 Checks for empty cart when attempting to confirm order
 
 Notable Issues
